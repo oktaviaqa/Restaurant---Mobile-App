@@ -1,0 +1,270 @@
+{
+  "Items": [
+    {
+      "id": 1,
+      "name": "McD Burger",
+      "description": "Classic McDonald's burger with cheese, lettuce, and special sauce.",
+      "price": 5.99,
+      "imgUrl": "https://example.com/mcd-burger.jpg",
+      "categoryId": 1,
+      "AuthorId": 1
+    },
+    {
+      "id": 2,
+      "name": "Chicken McNuggets",
+      "description": "Crispy and delicious chicken nuggets served with your choice of dipping sauce.",
+      "price": 4.49,
+      "imgUrl": "https://example.com/chicken-mcnuggets.jpg",
+      "categoryId": 2,
+      "AuthorId": 2
+    },
+    {
+      "id": 3,
+      "name": "Big Mac",
+      "description": "Iconic double-decker burger with special sauce, lettuce, cheese, pickles, and onions.",
+      "price": 6.29,
+      "imgUrl": "https://example.com/big-mac.jpg",
+      "categoryId": 1,
+      "AuthorId": 1
+    },
+    {
+      "id": 4,
+      "name": "McFlurry",
+      "description": "Creamy soft-serve ice cream mixed with your favorite toppings and flavors.",
+      "price": 3.99,
+      "imgUrl": "https://example.com/mcflurry.jpg",
+      "categoryId": 3,
+      "AuthorId": 2
+    },
+    {
+      "id": 5,
+      "name": "Filet-O-Fish",
+      "description": "Delicious fish fillet sandwich with tartar sauce and a steamed bun.",
+      "price": 5.79,
+      "imgUrl": "https://example.com/filet-o-fish.jpg",
+      "categoryId": 1,
+      "AuthorId": 1
+    },
+    {
+      "id": 6,
+      "name": "McChicken",
+      "description": "Crispy chicken patty, lettuce, and mayo sandwiched in a bun.",
+      "price": 4.99,
+      "imgUrl": "https://example.com/mcchicken.jpg",
+      "categoryId": 1,
+      "AuthorId": 1
+    },
+    {
+      "id": 7,
+      "name": "Happy Meal",
+      "description": "Kid's meal with a choice of burger or nuggets, fries, a small drink, and a toy.",
+      "price": 3.99,
+      "imgUrl": "https://example.com/happy-meal.jpg",
+      "categoryId": 2,
+      "AuthorId": 2
+    },
+    {
+      "id": 8,
+      "name": "McWrap",
+      "description": "Grilled or crispy chicken, lettuce, cheese, and sauce wrapped in a flour tortilla.",
+      "price": 5.49,
+      "imgUrl": "https://example.com/mcwrap.jpg",
+      "categoryId": 1,
+      "AuthorId": 1
+    },
+    {
+      "id": 9,
+      "name": "Sundae",
+      "description": "Creamy vanilla soft-serve ice cream topped with chocolate or caramel sauce.",
+      "price": 2.49,
+      "imgUrl": "https://example.com/sundae.jpg",
+      "categoryId": 3,
+      "AuthorId": 2
+    },
+    {
+      "id": 10,
+      "name": "McCafe Latte",
+      "description": "Smooth and rich espresso combined with steamed milk for the perfect latte.",
+      "price": 3.79,
+      "imgUrl": "https://example.com/mccafe-latte.jpg",
+      "categoryId": 4,
+      "AuthorId": 1
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name": "Burger"
+    },
+    {
+      "id": 2,
+      "name": "Chicken"
+    },
+    {
+      "id": 3,
+      "name": "Dessert"
+    },
+    {
+      "id": 4,
+      "name": "Beverages"
+    },
+    {
+      "id": 5,
+      "name": "Salad"
+    }
+  ],
+  "Ingredients": [
+    {
+      "id": 1,
+      "itemId": 1,
+      "name": "Cheese"
+    },
+    {
+      "id": 2,
+      "itemId": 1,
+      "name": "Lettuce"
+    },
+    {
+      "id": 3,
+      "itemId": 1,
+      "name": "Special Sauce"
+    },
+    {
+      "id": 4,
+      "itemId": 2,
+      "name": "Chicken"
+    },
+    {
+      "id": 5,
+      "itemId": 2,
+      "name": "Dipping Sauce"
+    },
+    {
+      "id": 6,
+      "itemId": 3,
+      "name": "Double-Decker Bun"
+    },
+    {
+      "id": 7,
+      "itemId": 3,
+      "name": "Pickles"
+    },
+    {
+      "id": 8,
+      "itemId": 4,
+      "name": "Soft-Serve Ice Cream"
+    },
+    {
+      "id": 9,
+      "itemId": 4,
+      "name": "Toppings"
+    },
+    {
+      "id": 10,
+      "itemId": 5,
+      "name": "Fish Fillet"
+    },
+    {
+      "id": 11,
+      "itemId": 5,
+      "name": "Tartar Sauce"
+    },
+    {
+      "id": 12,
+      "itemId": 6,
+      "name": "Crispy Chicken Patty"
+    },
+    {
+      "id": 13,
+      "itemId": 6,
+      "name": "Mayo"
+    },
+    {
+      "id": 14,
+      "itemId": 7,
+      "name": "Fries"
+    },
+    {
+      "id": 15,
+      "itemId": 7,
+      "name": "Small Drink"
+    },
+    {
+      "id": 16,
+      "itemId": 8,
+      "name": "Grilled or Crispy Chicken"
+    },
+    {
+      "id": 17,
+      "itemId": 8,
+      "name": "Cheese"
+    },
+    {
+      "id": 18,
+      "itemId": 8,
+      "name": "Sauce"
+    },
+    {
+      "id": 19,
+      "itemId": 9,
+      "name": "Vanilla Soft-Serve Ice Cream"
+    },
+    {
+      "id": 20,
+      "itemId": 9,
+      "name": "Chocolate or Caramel Sauce"
+    },
+    {
+      "id": 22,
+      "itemId": 10,
+      "name": "Espresso"
+    },
+    {
+      "id": 23,
+      "itemId": 10,
+      "name": "Steamed Milk"
+    }
+  ],
+  "Users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin123",
+      "role": "admin",
+      "phoneNumber": "123456789",
+      "address": "123 Main St"
+    },
+    {
+      "id": 2,
+      "username": "user1",
+      "password": "user123",
+      "role": "user",
+      "phoneNumber": "987654321",
+      "address": "456 Elm St"
+    },
+    {
+      "id": 3,
+      "username": "user2",
+      "password": "user456",
+      "role": "user",
+      "phoneNumber": "111222333",
+      "address": "789 Oak St"
+    },
+    {
+      "id": 4,
+      "username": "user3",
+      "password": "user789",
+      "role": "user",
+      "phoneNumber": "444555666",
+      "address": "101 Pine St"
+    },
+    {
+      "id": 5,
+      "username": "user4",
+      "password": "user101",
+      "role": "user",
+      "phoneNumber": "777888999",
+      "address": "202 Cedar St"
+    }
+  ]
+}

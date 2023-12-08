@@ -1,0 +1,22 @@
+services:
+  orchestrator:
+    build: ./orchestrator
+    ports:
+      - "80:4000"
+    environment:
+      - APP_SERVICE_URL=http://app:4002
+      - USER_SERVICE_URL=http://users:4001
+      - DATABASE_URL=postgresql://postgres:bgr7DcqSl4Cepyzn@db.wkgjmdukozxgghckceho.supabase.co:5432/postgres
+      - REDIS_URL=redis://default:iM93cuXQqPpa5HDuMgwEuT3p7xHIU769@redis-14171.c292.ap-southeast-1-1.ec2.cloud.redislabs.com:14171
+  app:
+    build: ./services/app
+    ports:
+      - "3002:4002"
+  users:
+    build: ./services/users
+    ports:
+      - "3001:4001"
+  cache:
+    image: redis:7.2.0
+    ports:
+      - "7001:6379"

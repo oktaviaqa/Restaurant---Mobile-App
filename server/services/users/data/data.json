@@ -1,0 +1,42 @@
+[
+  {
+    "username": "admin",
+    "email": "admin@mail.com",
+    "password": "admin123",
+    "role": "admin",
+    "phoneNumber": "123456789",
+    "address": "123 Main St"
+  },
+  {
+    "username": "admin1",
+    "email": "admin1@mail.com",
+    "password": "admin123",
+    "role": "admin",
+    "phoneNumber": "987654321",
+    "address": "456 Elm St"
+  },
+  {
+    "username": "admin2",
+    "email": "admin2@mail.com",
+    "password": "admin456",
+    "role": "admin",
+    "phoneNumber": "111222333",
+    "address": "789 Oak St"
+  },
+  {
+    "username": "admin3",
+    "email": "admin3@mail.com",
+    "password": "admin789",
+    "role": "admin",
+    "phoneNumber": "444555666",
+    "address": "101 Pine St"
+  },
+  {
+    "username": "admin4",
+    "email": "admin4@mail.com",
+    "password": "admin101",
+    "role": "admin",
+    "phoneNumber": "777888999",
+    "address": "202 Cedar St"
+  }
+]

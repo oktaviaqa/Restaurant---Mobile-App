@@ -1,0 +1,106 @@
+[
+  {
+    "name": "Egg and Cheese Muffin",
+    "description": "A delicious breakfast muffin with egg and cheese.",
+    "price": 15000,
+    "imgUrl": "https://d2vuyvo9qdtgo9.cloudfront.net/foods/October2023/hRmrU0qHnXMj5CZ3qLvt.webp",
+    "authorId": "6553882dc40da30dcd23ab94",
+    "categoryId": 1
+  },
+  {
+    "name": "Chicken Muffin",
+    "description": "A classic breakfast muffin with chicken patty.",
+    "price": 25000,
+    "imgUrl": "https://d2vuyvo9qdtgo9.cloudfront.net/foods/October2023/UGxWzYmlGDLUpzhrhaBT.webp",
+    "authorId": "6553882dc40da30dcd23ab95",
+    "categoryId": 1
+  },
+  {
+    "name": "Creamy Garlic McFlavor Fries",
+    "description": "Crispy and flavorful fries with creamy garlic seasoning.",
+    "price": 11000,
+    "imgUrl": "https://d2vuyvo9qdtgo9.cloudfront.net/foods/November2023/tSNhokAiDDS9zHnIBPeu.webp",
+    "authorId": "6553882dc40da30dcd23ab96",
+    "categoryId": 2
+  },
+  {
+    "name": "McShaker Fries Gulai Gurih",
+    "description": "Spicy and tangy shaker fries with Gulai Gurih flavor.",
+    "price": 25000,
+    "imgUrl": "https://d2vuyvo9qdtgo9.cloudfront.net/foods/October2023/Dshd5tky71iTD97hWDiH.webp",
+    "authorId": "6553882dc40da30dcd23ab97",
+    "categoryId": 2
+  },
+  {
+    "name": "Iced Coffee Italian Dolce Jelly Float",
+    "description": "Iced coffee with Italian Dolce flavor and jelly toppings.",
+    "price": 12000,
+    "imgUrl": "https://d2vuyvo9qdtgo9.cloudfront.net/foods/October2023/qqUt7Skv42a6EG1AWzYA.webp",
+    "authorId": "6553882dc40da30dcd23ab98",
+    "categoryId": 3
+  },
+  {
+    "name": "PaNas 1 Ayam McD Kimchi",
+    "description": "Spicy and savory Korean-style fried chicken.",
+    "price": 20000,
+    "imgUrl": "https://d2vuyvo9qdtgo9.cloudfront.net/foods/October2023/UF2gdIf2F5V2J7T3OrmJ.webp",
+    "authorId": "6553882dc40da30dcd23ab94",
+    "categoryId": 5
+  },
+  {
+    "name": "Double Choco Sundae",
+    "description": "Rich chocolate sundae with double chocolate sauce.",
+    "price": 17000,
+    "imgUrl": "https://d2vuyvo9qdtgo9.cloudfront.net/foods/October2023/PE1hRLwfYCDEeHrqUkdo.webp",
+    "authorId": "6553882dc40da30dcd23ab95",
+    "categoryId": 7
+  },
+  {
+    "name": "Fish Prosperity Burger",
+    "description": "A delightful fish burger with Prosperity sauce.",
+    "price": 20000,
+    "imgUrl": "https://d2vuyvo9qdtgo9.cloudfront.net/foods/October2023/H62m3FaOB5tkAWZCO0HA.webp",
+    "authorId": "6553882dc40da30dcd23ab96",
+    "categoryId": 8
+  },
+  {
+      "name": "McNuggets",
+      "description": "Crispy and tender chicken McNuggets with your choice of dipping sauce.",
+      "price": 10000,
+      "imgUrl": "https://d2vuyvo9qdtgo9.cloudfront.net/foods/November2023/glPuoPU9NsV1b8DchCaP.webp",
+      "authorId": "6553882dc40da30dcd23ab97",
+      "categoryId": 5
+    },
+    {
+      "name": "Mango Pineapple Smoothie",
+      "description": "A refreshing smoothie with mango and pineapple flavors.",
+      "price": 12000,
+      "imgUrl": "https://d2vuyvo9qdtgo9.cloudfront.net/foods/October2023/OkOEg2VsTINmBazIzIUI.webp",
+      "authorId": "6553882dc40da30dcd23ab98",
+      "categoryId": 3
+    },
+    {
+      "name": "Spicy McChicken",
+      "description": "A spicy chicken sandwich with lettuce and mayonnaise.",
+      "price": 24000,
+      "imgUrl": "https://d2vuyvo9qdtgo9.cloudfront.net/foods/October2023/qUcSjePgXfR3SSbJzaNZ.webp",
+      "authorId": "6553882dc40da30dcd23ab94",
+      "categoryId": 4
+    },
+    {
+      "name": "Chocolate Sundae",
+      "description": "Creamy chocolate sundae with a drizzle of chocolate sauce.",
+      "price": 25000,
+      "imgUrl": "https://akcdn.detik.net.id/visual/2022/07/25/jisoo-blackpink-1_43.jpeg?w=650&q=90",
+      "authorId": "6553882dc40da30dcd23ab95",
+      "categoryId": 7
+    },
+    {
+      "name": "Filet-O-Fish",
+      "description": "A classic fish sandwich with tartar sauce and a steamed bun.",
+      "price": 26000,
+      "imgUrl": "https://akcdn.detik.net.id/visual/2022/07/25/jisoo-blackpink-1_43.jpeg?w=650&q=90",
+      "authorId": "6553882dc40da30dcd23ab96",
+      "categoryId": 8
+    }
+]

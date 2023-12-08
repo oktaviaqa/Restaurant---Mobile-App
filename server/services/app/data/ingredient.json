@@ -1,0 +1,112 @@
+[
+    {
+      "id": 1,
+      "itemId": 1,
+      "name": "Cheese"
+    },
+    {
+      "id": 2,
+      "itemId": 1,
+      "name": "Lettuce"
+    },
+    {
+      "id": 3,
+      "itemId": 1,
+      "name": "Special Sauce"
+    },
+    {
+      "id": 4,
+      "itemId": 2,
+      "name": "Chicken"
+    },
+    {
+      "id": 5,
+      "itemId": 2,
+      "name": "Dipping Sauce"
+    },
+    {
+      "id": 6,
+      "itemId": 3,
+      "name": "Double-Decker Bun"
+    },
+    {
+      "id": 7,
+      "itemId": 3,
+      "name": "Pickles"
+    },
+    {
+      "id": 8,
+      "itemId": 4,
+      "name": "Soft-Serve Ice Cream"
+    },
+    {
+      "id": 9,
+      "itemId": 4,
+      "name": "Toppings"
+    },
+    {
+      "id": 10,
+      "itemId": 5,
+      "name": "Fish Fillet"
+    },
+    {
+      "id": 11,
+      "itemId": 5,
+      "name": "Tartar Sauce"
+    },
+    {
+      "id": 12,
+      "itemId": 6,
+      "name": "Crispy Chicken Patty"
+    },
+    {
+      "id": 13,
+      "itemId": 6,
+      "name": "Mayo"
+    },
+    {
+      "id": 14,
+      "itemId": 7,
+      "name": "Fries"
+    },
+    {
+      "id": 15,
+      "itemId": 7,
+      "name": "Small Drink"
+    },
+    {
+      "id": 16,
+      "itemId": 8,
+      "name": "Grilled or Crispy Chicken"
+    },
+    {
+      "id": 17,
+      "itemId": 8,
+      "name": "Cheese"
+    },
+    {
+      "id": 18,
+      "itemId": 8,
+      "name": "Sauce"
+    },
+    {
+      "id": 19,
+      "itemId": 9,
+      "name": "Vanilla Soft-Serve Ice Cream"
+    },
+    {
+      "id": 20,
+      "itemId": 9,
+      "name": "Chocolate or Caramel Sauce"
+    },
+    {
+      "id": 22,
+      "itemId": 10,
+      "name": "Espresso"
+    },
+    {
+      "id": 23,
+      "itemId": 10,
+      "name": "Steamed Milk"
+    }
+  ]
